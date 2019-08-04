@@ -6,7 +6,7 @@ from keras.layers import ELU
 from keras.optimizers import Adam
 import numpy as np
 import tensorflow as tf
-tf.python.control_flow_ops = tf
+# tf.python.control_flow_ops = tf
 
 N_img_height = 66
 N_img_width = 220

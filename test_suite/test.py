@@ -1,9 +1,9 @@
 
-import cv2
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
+import opencv as cv2
 import os
 import json
 import csv
