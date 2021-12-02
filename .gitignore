@@ -8,9 +8,14 @@ NvidiaModel-OpticalFlowSparse-Copy1.ipynb
 /Papers/
 /FlowNet/
 /node_modules/
+/.vscode
 *.jpg
 *.ipynb_checkpoints
 *.mp4
+*.gpx
+*.zip
+*.csv
+*.xlsx
 __pycache__
 CustomLayers.py
 batch_shuffle.ipynb
